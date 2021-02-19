@@ -1,0 +1,5 @@
+This is my first line
+
+Very pleased to meet you.
+
+untracked file -> stage it -> commit  changes -> upload to github
