@@ -4,4 +4,5 @@ Very not nice to meet you.
 
 untracked file -> stage it -> commit  changes -> upload to github
 
-this is a new line
+---------> main timeline still exists
+| ----> previous version*   ---- |
